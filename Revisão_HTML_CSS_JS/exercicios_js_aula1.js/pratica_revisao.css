@@ -1,23 +1,39 @@
 body {
+    background:#3f6b86;
     font-family: Arial, sans-serif;
 }
-
+header {
+    background:#344153;
+}
 .card-produto {
-    transition: 0.3s;
+    background:#6badc7;
+    color:white;
+    padding:15px;
+    border-radius:20px;
+    transition:0.3s;
 }
 
 .card-produto:hover {
-    transform: translateY(-5px);
-}
-
-#modal-carrinho {
-    backdrop-filter: blur(5px);
+    transform:translateY(-8px);
 }
 
 .btn-comprar {
+    background:#c2e0e8;
+    color:white;
+    padding:10px;
+    border-radius:20px;
+    width:100%;
     transition: 0.3s;
 }
 
 .btn-comprar:hover {
+    background:#c2e0e8;
     transform: scale(1.05);
+}
+input {
+    background:white;
+}
+
+#modal-carrinho {
+    backdrop-filter: blur(5px);
 }

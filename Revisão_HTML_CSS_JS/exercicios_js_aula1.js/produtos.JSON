@@ -1,36 +1,38 @@
 [
     {
         "id": 1,
-        "nome": "Notebook Eco Pro 15\"",
-        "preco": 2899.90,
-        "categoria": "Notebooks",
-        "imagem": "https://picsum.photos/id/201/300/180",
+        "nome": "6480 Cristais Gênesis\"",
+        "preco": 499.90,
+        "categoria": "Cristais",
+        "imagem": "https://store-images.s-microsoft.com/image/apps.26437.13972078771251661.81d8594e-4286-41e7-9217-d4a14a81d31a.4b2e9aed-8507-4108-a566-9eaf6bceaca2?q=90&w=320&h=180",
         "estoque": 15,
-        "descricao": "Notebook sustentável com materiais reciclados."
+        "descricao": "Cristais Gênesis para você comprar skins."
     },
     {
         "id": 2,
-        "nome": "Mouse Sem Fio Ergonômico",
-        "preco": 89.90,
-        "categoria": "Acessórios",
-        "imagem": "https://picsum.photos/id/160/300/180",
+        "nome": "Benção Da Lua Nova",
+        "preco": 27.90,
+        "categoria": "Benção",
+        "imagem": "https://www.zero3games.com.br/loja/assets/genshin-bless-main.webp",
         "estoque": 50,
-        "descricao": "Mouse confortável com bateria de longa duração."
+        "descricao": "300 Cristais Gênesis instantâneos e 90 gemas por dia por 30 dias."
     },
     {
         "id": 3,
-        "nome": "Teclado Mecânico RGB",
-        "preco": 249.90,
-        "categoria": "Acessórios",
-        "imagem": "https://picsum.photos/id/180/300/180"
+        "nome": "Passe de Batalha Gnóstico",
+        "preco": 49.90,
+        "categoria": "Passe de Batalha",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHBMo80SVLxKnW7xGQWOomLErR1dY7MUolA&s",
+        "estoque": 35,
+        "descricao": "Passe de batalha que dura 42 dias e te dá possibilidade de obter diversos recursos."
     },
     {
         "id": 4,
-        "nome": "Kit Solar Power Bank",
-        "preco": 129.90,
-        "categoria": "Sustentáveis",
-        "imagem": "https://picsum.photos/id/251/300/180",
+        "nome": "3280 Cristais Gênesis",
+        "preco": 254.90,
+        "categoria": "Cristais",
+        "imagem": "https://store-images.s-microsoft.com/image/apps.37393.13876487648548738.cbdadb4c-8335-4699-876e-68e010df4b84.98df5379-b71b-42b2-8037-d3bc7111eb2f",
         "estoque": 25,
-        "descricao": "Power bank carregado por energia solar - ODS 12."
+        "descricao": "Cristais Gênesis para você comprar skins."
     }
 ]
